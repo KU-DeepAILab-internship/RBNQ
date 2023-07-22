@@ -1,4 +1,4 @@
 # RBNQ
 ### Trained Models
-* EDSR with BN x2
-* EDSR with BN x4
+* EDSR without BN x2
+* EDSR without BN x4
